@@ -1,0 +1,12 @@
+[submodule "structures"]
+	path = structures
+	url = https://github.com/celes26protein-lab/ACE2-AngII-structures.git
+[submodule "smina-docking"]
+	path = smina-docking
+	url = https://github.com/celes26protein-lab/ACE2-AngII-smina-docking.git
+[submodule "gromacs"]
+	path = gromacs
+	url = https://github.com/celes26protein-lab/ACE2-AngII-GROMACS.git
+[submodule "analysis"]
+	path = analysis
+	url = https://github.com/celes26protein-lab/ACE2-AngII-analysis.git
